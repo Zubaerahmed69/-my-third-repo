@@ -1,0 +1,13 @@
+h1{
+text-align: center;
+color: red;
+}
+p{
+
+background-color:palevioletred;
+color: black;
+width: fit-content;
+border: 5px solid black;
+font-size: 3em;
+
+}
